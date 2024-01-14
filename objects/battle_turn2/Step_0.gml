@@ -3,11 +3,6 @@
 time++;
 switch(time){
 	case 60:
-		a = instance_create_depth(200,300,0,battle_bullet_gb)
-		break;
-}
-switch(time){
-	case 60:
 		a = instance_create_depth(200,250,0,battle_bullet_gb)
 		break;
 }
